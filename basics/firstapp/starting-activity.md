@@ -168,7 +168,7 @@ public class DisplayMessageActivity extends ActionBarActivity {
     }
 
     /**
-     * 一个包含简单的View的占位用的碎片。
+     * 一个包含简单的View类的PlaceholderFragment。
      */
     public static class PlaceholderFragment extends Fragment {
 
