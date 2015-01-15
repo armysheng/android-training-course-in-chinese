@@ -5,6 +5,7 @@
 Action bar 最基本的形式，就是为 activity 显示标题，并且在标题左边显示一个 app icon。即使在这样简单的形式下，对于所有的 activity 来说，action bar 对告知用户他们当前所处的位置十分有用，并为你的 app 维护了持续的同一标识。
 
 ![actionbar-basic](actionbar-basic.png)
+
 图 1. 一个有 app icon 和 activity 标题的 action bar
 
 设置一个基本的 action bar，需要你的 app 使用一个 action bar 可用的 activity 主题。如何声明这样的主题取决于你的 app 支持的 Android 最低版本。所以本课程根据你的 app 支持的 Android 最低版本分为两部分。
